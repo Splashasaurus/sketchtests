@@ -8,9 +8,6 @@ function setup() {
   //createCanvas(300, 300);
 
   
-  size= 50;
-
-  
 }
 
 function draw() {
