@@ -2,10 +2,10 @@ function setup() {
  // let canvas = createCanvas(300, 300);
   //canvas.parent('sketch1');https://github.com/Splashasaurus/sketchtests/blob/main/sketch.js#L3C1
   
-  let canvas = createCanvas(300,300);
+  let canvas = createCanvas(500,500);
   canvas.parent('sketch2');
   
-  //createCanvas(300, 300);
+  //createCanvas(500, 500);
 
   
 }
