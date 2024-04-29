@@ -1,5 +1,16 @@
 function setup() {
-  createCanvas(400, 400);
+ // let canvas = createCanvas(300, 300);
+  //canvas.parent('sketch1');https://github.com/Splashasaurus/sketchtests/blob/main/sketch.js#L3C1
+  
+  let canvas = createCanvas(300,300);
+  canvas.parent('sketch2');
+  
+  //createCanvas(300, 300);
+
+  
+  size= 50;
+
+  
 }
 
 function draw() {
