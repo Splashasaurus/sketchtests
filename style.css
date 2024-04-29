@@ -35,4 +35,32 @@ p{
       display: grid;
       grid-template-columns: 400px 400px 400px;
       grid-template-rows: 400px 400px 400px;
+    }
 
+#one{
+  grid-column-start:1;
+  grid-column-end:4;
+  grid-row-start:1;
+  grid-row-end:2;
+}
+
+#two{
+  grid-column-start:1;
+  grid-column-end:3;
+  grid-row-start:2;
+  grid-row-end:3;
+}
+
+#three{
+  grid-column-start:3;
+  grid-column-end:4;
+  grid-row-start:2;
+  grid-row-end:3;
+}
+
+#four{
+  grid-column-start:2;
+  grid-column-start:4;
+grid-row-start:3;
+  grid-row-end:4;
+}
